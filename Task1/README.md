@@ -12,5 +12,10 @@ This is a basic calculator program using Java console I/O.
 - VS Code or IntelliJ CE
 - Terminal/Command Prompt
 
+## How to Run
+1. Navigate to the folder containing ConsoleCalculator.java.
+2. Compile the Java file:javac ConsoleCalculator.java
+3. Run the compiled program:java ConsoleCalculator
+
 ## Outcome
 - Understand Java syntax and logical flow
