@@ -11,5 +11,10 @@ This is a simple Java CLI program to manage student records using ArrayList.
 - Java
 - VS Code or IntelliJ CE
 
+## How to Run
+1. Navigate to the directory containing StudentRecordManagement.java.
+2. Compile the program:javac StudentRecordManagement.java
+3. Run the program:java StudentRecordManagement
+
 ## Key Concepts
 - Classes, ArrayList, loops, encapsulation
