@@ -19,4 +19,4 @@ Before running the project, ensure you have:
 
 - ## output
 ![image alt](https://github.com/saniyashirin2004/java-internship-tasks/blob/19a0a2090b9ff73be83a77e08b01210f2df24628/Task3/Screenshot%202025-09-28%20200823.png)
-![image alt]()
+![image alt](https://github.com/saniyashirin2004/java-internship-tasks/blob/4884087fd9899c2a5237a5acc2f973d9c104f05a/Task3/Screenshot%202025-09-28%20200920.png)
