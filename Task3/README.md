@@ -18,4 +18,4 @@ Before running the project, ensure you have:
 - A Java IDE (e.g., IntelliJ IDEA, Eclipse, NetBeans) or command-line tools.
 
 - ## output
-![image alt]("C:\Users\ASUS\Pictures\Screenshots\Screenshot 2025-09-28 200823.png")
+
