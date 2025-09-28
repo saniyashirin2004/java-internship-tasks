@@ -18,4 +18,5 @@ Before running the project, ensure you have:
 - A Java IDE (e.g., IntelliJ IDEA, Eclipse, NetBeans) or command-line tools.
 
 - ## output
-
+![image alt](https://github.com/saniyashirin2004/java-internship-tasks/blob/19a0a2090b9ff73be83a77e08b01210f2df24628/Task3/Screenshot%202025-09-28%20200823.png)
+![image alt]()
