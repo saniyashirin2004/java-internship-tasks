@@ -26,4 +26,4 @@ This project simulates basic bank account operations using Java Object-Oriented 
     
 ## Output
 The system displays deposit, withdrawal, interest application, and full transaction history in the console.
-![image alt]()
+![image alt](https://github.com/saniyashirin2004/java-internship-tasks/blob/ca9c6e9d6b9e006c556323dd625e3e511c81959a/Task5/screenshot-task5.png)
