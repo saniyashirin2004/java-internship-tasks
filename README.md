@@ -12,6 +12,8 @@ This repository contains my solutions and learning progress for a 45-day Java De
 - [Task 3: Library Management System](Task3/)
 - [Task 4: NotesApp](Task4/)
 - [Task 5: Bank Account Simulation](Task5/)
+- [Task 6: ToDoApp](Task6/)
+- [Task 7: Employee DB App](Task7/)
 - 
 - More tasks coming as the internship progresses!
 
