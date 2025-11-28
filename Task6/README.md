@@ -8,9 +8,9 @@ A simple desktop To-Do List application created using Java Swing. Add and delete
 - Delete selected tasks from the list
 - Simple and user-friendly interface
 
-## Images
+## Output Images
 ![image alt](https://github.com/saniyashirin2004/java-internship-tasks/blob/5da11c31676e54d3ae962eebaa4a91f40fc41b0d/Task6/Screenshot%202025-10-09%20235625.png)
-![image alt]()
+![image alt](https://github.com/saniyashirin2004/java-internship-tasks/blob/40cdb71f588a951eed395c9d89ecc86ecf288b91/Task6/Screenshot%202025-10-09%20235703.png)
 ## Requirements
 
 - Java JDK installed (version 8 or higher)
